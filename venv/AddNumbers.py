@@ -1,3 +1,6 @@
+
+"""Adding two numbers and
+      concatenating two strings"""
 a=100
 b=100
 c=a+b
